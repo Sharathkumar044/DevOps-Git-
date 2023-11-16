@@ -32,4 +32,6 @@ git checkout -b <branch name> #create new branch and change to same branch
 
 git branch -d <name>
 
+git log --graphic 
+
 
