@@ -1,0 +1,35 @@
+git init 
+
+git add 
+
+git add .
+
+git commit -m "message"
+
+git push origin master 
+
+git log 
+
+git help <cmmd>>
+
+git log 
+
+git log --name-only 
+
+#-n limits no of commits
+
+
+git log --name-only -n 
+
+git branch <<name new branch>>
+
+git branch #list of branchers
+
+git checkout -b <branch name> #create new branch and change to same branch
+
+
+#delete branch 
+
+git branch -d <name>
+
+
